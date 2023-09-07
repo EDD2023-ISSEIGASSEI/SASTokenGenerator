@@ -1,0 +1,2 @@
+# SASTokenGenerator
+ユーザー登録でアイコン画像をフロントから直接Blobに保存したいので、SASToken生成用のFunctionsを使用して、SASTokenを生成した後、それを使用してアップロードする
